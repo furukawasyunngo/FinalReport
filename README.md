@@ -14,4 +14,4 @@
 
 3週間
 
-[Play!!](./web-gl/)
+[Play!!](htpps//furukawasyunngo.github.io/FinalReport/web-gl/)
