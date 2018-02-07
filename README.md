@@ -14,4 +14,4 @@
 
 3週間
 
-[Play!!](./web-gl/index/html)
+[Play!!](./web-gl/)
