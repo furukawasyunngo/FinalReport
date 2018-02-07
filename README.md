@@ -14,4 +14,16 @@
 
 3週間
 
+#  使用アセット
+
+AxeyWorks
+
+Fantasy Skybox FREE
+
+GUI Animator
+
+Locomotion Setup
+
+Plugins
+
 [Play!!](https://furukawasyunngo.github.io/FinalReport/web-gl/)
