@@ -26,4 +26,12 @@ Locomotion Setup
 
 Plugins
 
+Raw Mocap Data
+
+Standard Assets
+
+UnityChan
+
+Unity-FadeManager-master
+
 [Play!!](https://furukawasyunngo.github.io/FinalReport/web-gl/)
